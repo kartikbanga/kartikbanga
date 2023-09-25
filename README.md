@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+ <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Hey+There!;My+self+Kartik+Banga;Welcome+to+my+GitHub;I'm+a+web+developer;I'm+a+flutter+developer;I'm+a+programmer;I'm+a+front-end+developer">
+  </a>
+</p>
+
+---
+<img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
+
+ 
