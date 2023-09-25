@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <details>
 <summary>Don't Click Here</summary>
 
-<img src="https://github.com/kartikbanga/kartikbanga/blob/output/github-contribution-grid-snake.svg">
+<!--<img src="https://github.com/kartikbanga/kartikbanga/blob/output/github-contribution-grid-snake.svg">-->
 
 | ![Kartik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kartikbanga&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikbanga&theme=github_dark&layout=compact)](https://github.com/kartikbanga/github-readme-stats) |
 |---|---|
