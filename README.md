@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
 <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=black&theme=synthwave&qColor=orange&aColor=white" alt="Jokes Card" />
 
 
@@ -27,5 +28,17 @@ Here are some ideas to get you started:
 - 🥉 Institute Rank 3 on GeeksforGeeks
 - ⭐ 4-star HackerRank
 - ✅ 700+ DSA Questions conquered
+
+---
+
+
+
+<a href="https://leetcode.com/_kartikbanga_/" target="_blank">
+ <img align="right" src='https://leetcard.jacoblin.cool/_kartikbanga_?hide=ranking&border=0&radius=21' width='310"'>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/returndisappointment/profile" target="_blank">
+ <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=_kartikbanga_' width='210"'>
+</a>
+
 
  
