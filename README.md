@@ -36,14 +36,15 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/_kartikbanga_/" target="_blank">
  <img align="right" src='https://leetcard.jacoblin.cool/_kartikbanga_?hide=ranking&border=0&radius=21' width='310"'>
 </a>
+  &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/returndisappointment/profile" target="_blank">
  <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=_kartikbanga_' width='210"'>
 </a>
-
+ &nbsp;
  <a href="https://www.linkedin.com/in/kartikbanga04" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
   </a>
-  
+   &nbsp;
   <a href="https://www.hackerrank.com/kartikbanga04" target="_blank">
     <img  height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728321-5597e642-cc4e-4833-a499-6535d7f8cf41.png">
   </a>
