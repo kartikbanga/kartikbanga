@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </a>
   &nbsp;
 <a href="https://auth.geeksforgeeks.org/user/returndisappointment/profile" target="_blank">
- <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=_kartikbanga_' width='210"'>
+ <img align="right" src='https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=returndisappointment' width='210"'>
 </a>
  &nbsp;
  <a href="https://www.linkedin.com/in/kartikbanga04" target="_blank">
