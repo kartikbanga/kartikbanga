@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 
 <details>
 <summary>Don't Click Here</summary>
+<br>
 
 <!--<img src="https://github.com/kartikbanga/kartikbanga/blob/output/github-contribution-grid-snake.svg">-->
 
