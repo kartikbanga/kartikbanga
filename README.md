@@ -58,4 +58,22 @@ Here are some ideas to get you started:
   </a>
 
 </p>
+
+
+<details>
+<summary>Don't Click Here</summary>
+
+<img src="https://github.com/PulkitMalhotra161001/PulkitMalhotra161001/blob/output/github-contribution-grid-snake.svg">
+
+| ![Pulkit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kartikbanga&theme=github_dark&show_icons=true) | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kartikbanga&theme=github_dark&layout=compact)](https://github.com/kartikbanga/github-readme-stats) |
+|---|---|
+ 
+
+<p align='center'>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> How to reach me: <a href='mailto:kartikbanga04@gmail.com'>kartikbanga04@gmail.com</a>
+</p>
+ </details>
+
+
+
  
