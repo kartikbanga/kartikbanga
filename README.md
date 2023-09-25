@@ -43,10 +43,6 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/kartikbanga04" target="_blank">
     <img height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185727798-75572198-8764-4e7b-8a34-d772e51aa730.png">
   </a>
-
-   <br>
-  <br>
- 
   
   <a href="https://www.hackerrank.com/kartikbanga04" target="_blank">
     <img  height="35px" width="auto" src="https://user-images.githubusercontent.com/63710339/185728321-5597e642-cc4e-4833-a499-6535d7f8cf41.png">
