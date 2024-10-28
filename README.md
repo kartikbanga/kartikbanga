@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://camo.githubusercontent.com/8dce1c80f6cdb3ccb00127fabf6362116800fc1722ac3746af58f4f63ef8e771/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d303030376973686176266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 <p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Hey+There!;Myself+Kartik+Banga;Welcome+to+my+GitHub+Profile;I'm+a+web+developer;I'm+a+flutter+developer;I'm+a+programmer;I'm+a+front-end+developer">
