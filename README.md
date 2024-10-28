@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kartikbanga)
 <p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=Hey+There!;Myself+Kartik+Banga;Welcome+to+my+GitHub+Profile;I'm+a+web+developer;I'm+a+flutter+developer;I'm+a+programmer;I'm+a+front-end+developer">
